@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+
+Name=Demo app
+Comment=A small demo Application
+Categories=Science;
+
+Icon=applications-other
+Exec=demo-app
+Terminal=false
